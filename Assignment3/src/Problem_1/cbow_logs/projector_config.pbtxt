@@ -1,0 +1,100 @@
+embeddings {
+  tensor_name: "default:00005"
+  metadata_path: "00005/default/metadata.tsv"
+  tensor_path: "00005/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00010"
+  metadata_path: "00010/default/metadata.tsv"
+  tensor_path: "00010/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00015"
+  metadata_path: "00015/default/metadata.tsv"
+  tensor_path: "00015/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00020"
+  metadata_path: "00020/default/metadata.tsv"
+  tensor_path: "00020/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00025"
+  metadata_path: "00025/default/metadata.tsv"
+  tensor_path: "00025/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00030"
+  metadata_path: "00030/default/metadata.tsv"
+  tensor_path: "00030/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00035"
+  metadata_path: "00035/default/metadata.tsv"
+  tensor_path: "00035/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00040"
+  metadata_path: "00040/default/metadata.tsv"
+  tensor_path: "00040/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00045"
+  metadata_path: "00045/default/metadata.tsv"
+  tensor_path: "00045/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00050"
+  metadata_path: "00050/default/metadata.tsv"
+  tensor_path: "00050/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00055"
+  metadata_path: "00055/default/metadata.tsv"
+  tensor_path: "00055/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00060"
+  metadata_path: "00060/default/metadata.tsv"
+  tensor_path: "00060/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00065"
+  metadata_path: "00065/default/metadata.tsv"
+  tensor_path: "00065/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00070"
+  metadata_path: "00070/default/metadata.tsv"
+  tensor_path: "00070/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00075"
+  metadata_path: "00075/default/metadata.tsv"
+  tensor_path: "00075/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00080"
+  metadata_path: "00080/default/metadata.tsv"
+  tensor_path: "00080/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00085"
+  metadata_path: "00085/default/metadata.tsv"
+  tensor_path: "00085/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00090"
+  metadata_path: "00090/default/metadata.tsv"
+  tensor_path: "00090/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00095"
+  metadata_path: "00095/default/metadata.tsv"
+  tensor_path: "00095/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00100"
+  metadata_path: "00100/default/metadata.tsv"
+  tensor_path: "00100/default/tensors.tsv"
+}
